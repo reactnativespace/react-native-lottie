@@ -1,4 +1,4 @@
-How to Use Lottie Animations in React Native?
+### How to Use Lottie Animations in React Native?
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
