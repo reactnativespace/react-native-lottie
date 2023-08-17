@@ -2,7 +2,7 @@ How to Use Lottie Animations in React Native?
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
-https://reactnativespace.com/tutorials/how-to-use-lottie-animations-in-react-native
+https://reactnativespace.com/tutorials/lottie-animations-in-react-native
 
 ### 📘 Installation
 Clone the repo to your directory and install the packages through npm using:
