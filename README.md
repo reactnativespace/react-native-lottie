@@ -1,4 +1,6 @@
-### How to Use Lottie Animations in React Native?
+### Lottie Animations in React Native?
+
+Learn how to create engaging, scalable animations in React Native using Lottie. Step-by-step tutorial with practical examples and best practices.
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
